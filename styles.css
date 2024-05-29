@@ -1,0 +1,65 @@
+:root{
+    background:black;
+    margin: 0px 20px 0px 20px;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+header{
+    background: snow;
+    border-style: solid;
+    text-align:center;
+}
+nav{
+    margin-right: 40px;
+}
+li{
+    display:inline-block;
+}
+h1{
+    padding: 10px;
+    margin:0px;
+    font-size: 50px;
+    border-style: solid;
+}
+h2{
+    background: black;
+    color:snow;
+    padding: 10px;
+    margin: 20px -20px 0px -20px;
+    font-size: 50px;
+}
+h3{
+    padding: 0px;
+    margin:10px;
+    font-size: 30px;
+}
+h4{
+    padding: 0px;
+    margin:10px;
+    font-size: 25px;
+}
+h5{
+    padding: 0px;
+    margin:10px;
+    font-size: 20px;
+}
+a{
+    display: grid;
+    color:black;
+    padding: 10px;
+    font-size: 20px;
+}
+p{
+    padding: 0px;
+    margin: 10px;
+    font-size: 20px;
+}
+main{
+    background:snow;
+    padding:20px;
+    border-style: solid;
+}
+.albums{
+    text-align:center;
+}
